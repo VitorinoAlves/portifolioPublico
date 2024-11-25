@@ -5,6 +5,11 @@ const EstiloGlobal = createGlobalStyle`
     margin:0;
     padding0;
     font-family: "Inter", sans-serif;
+    list-style: none;
+  }
+
+  ul{
+    padding:0;
   }
 
   body {
